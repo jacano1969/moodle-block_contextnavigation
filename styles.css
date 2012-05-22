@@ -1,0 +1,3 @@
+.block_contextnavigation .navigation-item-list {list-style: none inside;margin: 1em;}
+.block_contextnavigation .navigation-item.active-page {font-weight: bold;}
+.block_contextnavigation .navigation-item-link .navicon {margin-right:8px;}
